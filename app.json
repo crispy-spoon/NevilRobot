@@ -1,7 +1,7 @@
 {
-      "name": "Fallen Robot",
+      "name": "Nevil Robot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/72e135da30a1a349f2844.jpg",
+      "logo": "https://iili.io/d6B58zB.md.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/AnonymousX1025/FallenRobot",
+   "repository": "https://github.com/crispy-spoon/NevilRobot",
    "stack": "heroku-22",
    "addons": [
       {
